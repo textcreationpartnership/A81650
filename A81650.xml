@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dangerous fight at Pembrooke Castle, betwixt the forces commanded by Lieutenant Gen. Cromwell, and the forces commanded by Major Gen. Langhorne, and Collonel Iohn Poyer. With the number that were slain and taken prisoners on both sides,and Poyers declaration to his souldiers, concerning Sir Marmaduke Langdale. Likewise, another fight near Pontefract castle in Yorkshire, between the Cavaliers commanded by Col. Bonevant, and the Parliaments forces, commanded by Col. Fairfax, and the successe thereof. Together, with the proceedings of the Lord Gen. Hamilton, concerning the bringing of his Army into England, and 3. acts of the Parliament of Scotland, touching the same. Proclaimed and read at the High-Cross in the city of Edenburg.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81650</idno>
+            <idno type="STC">Wing D197</idno>
+            <idno type="STC">Thomason E449_21</idno>
+            <idno type="EEBO-CITATION">99864463</idno>
+            <idno type="PROQUEST">99864463</idno>
+            <idno type="VID">161864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dangerous fight at Pembrooke Castle, betwixt the forces commanded by Lieutenant Gen. Cromwell, and the forces commanded by Major Gen. Langhorne, and Collonel Iohn Poyer. With the number that were slain and taken prisoners on both sides,and Poyers declaration to his souldiers, concerning Sir Marmaduke Langdale. Likewise, another fight near Pontefract castle in Yorkshire, between the Cavaliers commanded by Col. Bonevant, and the Parliaments forces, commanded by Col. Fairfax, and the successe thereof. Together, with the proceedings of the Lord Gen. Hamilton, concerning the bringing of his Army into England, and 3. acts of the Parliament of Scotland, touching the same. Proclaimed and read at the High-Cross in the city of Edenburg.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyer, John, d. 1649 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Pembroke Castle (Wales) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161864:1" rendition="simple:additions"/>
+            <p>A DANGEROVS FIGHT AT Pembrooke Caſtle, BETWIXT The Forces Commanded by Lieu<g ref="char:EOLhyphen"/>tenant Gen. CROMWELL, and the For<g ref="char:EOLhyphen"/>ces Commanded by Major Gen. <hi>Laughorne,</hi> and Collonel <hi>Iohn Poyer.</hi> WITH The number that were ſlain and taken Priſoners on both ſides, and <hi>Poyers</hi> Declaration to his Souldiers, concerning Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale.</hi> LIKEWISE, Another Fight near PONTEFRACT Caſtle in <hi>York-ſhire,</hi> between the Cavaliers Commanded by Col. <hi>Bonevant,</hi> and the Parliaments Forces, Commanded by Col. <hi>Fairfax,</hi> and the ſucceſſe thereof. TOGETHER, With the proceedings of the Lord Gen. <hi>Hamilton,</hi> concerning the bringing of his Army into <hi>England,</hi> and 3. Acts of the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> touching the ſame. Proclaimed and read at the High-Croſs in the City of <hi>Edenburg.</hi>
+            </p>
+            <p>
+               <hi>LONDON. Printed for</hi> R. G. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:161864:2"/>
+            <pb n="1" facs="tcp:161864:2"/>
+            <head>Certain Acts agreed upon by the Parli<g ref="char:EOLhyphen"/>ament of <hi>Scotland,</hi> concerning the managing of a Warre againſt <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Proclaimed at the High-Croſse in the City of <hi>Edenburgh.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>THis Parliament here hath adjourned for two yeares, knowing well that Parliaments are not the beſt at Government, at leaſt in time of Warre. A Committee of 36. is to manage Affaires, D. <hi>Hamilton</hi> Generall, and Governour of <hi>Edenburgh</hi> Caſtle; moſt ſutable: there is no doubt of an Army that will come for <hi>England.</hi> For when it was askt in Parliament, where was money for to maintain the Army, it was anſwered by the Gen. let the Lads come into <hi>England</hi> once, and then ſhift for themſelves, the number of this Army in view is 3550. Horſe, 500. Dragoones, and 6000. Foote, be<g ref="char:EOLhyphen"/>ſides the forces which Major Gen. <hi>Langdale,</hi> for Sir <hi>Tho. Glemham</hi> is Gen. and the moſt Courted Eng<g ref="char:EOLhyphen"/>liſhman
+<pb n="2" facs="tcp:161864:3"/>that ever ſet foote on Scots ground: the Countries here are in ſad condition, the peoples adverſneſſe to the War occaſions their flight; that flight is accompanied with plundering of their houſes, and if taken, impriſonment, and if in Armes death: is this War for Presbyterian Government jud<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e; that there may nothing be wanting. For compleating his expedition, certain Acts are paſt, <hi>Sanc Le Roy:</hi> Firſt, that no Miniſter publikely or pri<g ref="char:EOLhyphen"/>vately ſpeak againſt this engagement: (will not their ſighes and teares think you be Regiſtred) on pain of being diſtmiſt his place and impriſonment, and who ever relieve him are to be proceeded a<g ref="char:EOLhyphen"/>gainſt as Malignants their perſons impriſoned, and goods ſeized. 2. That what Parliament man or Miniſter of juſtice that will not joyn with them in this engagement ſhall loſe his place, his perſon im<g ref="char:EOLhyphen"/>priſoned, and his goods ſeized. 3. An oath to im<g ref="char:EOLhyphen"/>poſe upon all that they ſhall ſweare to approve and conſent unto, and with their lives and fortunes to maintain any Act or Acts, and all the proceedings of this Parliament, and of this engagement: this power is given to recommit of eſtates to execute: the refuſers to be proceeded againſt with impriſon<g ref="char:EOLhyphen"/>ment, and ceaſing their eſtates.</p>
+                  <p>The Lord Marquis <hi>Argile,</hi> Lord <hi>Eglinton,</hi> and Lord <hi>Caſſils,</hi> with divers others are fled into the Weſt of <hi>Scotland</hi> for ſecurity, againſt whom is gone the Lord <hi>Calendor</hi> and <hi>Middleton,</hi> with 2500 horſe and 3000 foot (for the Presbyterian cauſe) who wil undoubtedly overcome the other, becauſe they have no horſe: the Scots in <hi>Ireland</hi> halt between
+<pb n="3" facs="tcp:161864:3"/>their good quarter in <hi>Ireland,</hi> and a War in <hi>England</hi> but, becauſe they will ſeem willing, they offer ſome of them to come upon receipt of money which its ſaid was ſent, and fell ſhort of them: Lord <hi>Lowden Lothian Car</hi> and <hi>Wariſon</hi> with others are gone from <hi>Edenburgh</hi> as it is thought to <hi>Argile.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Edenburgh</hi> 
+                        <date>
+                           <hi>June</hi> 17. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Sir, The action in theſe parts between Major Gen. <hi>Lambert</hi> might have been before this time, but the firſt hath no minde to fight, expecting ſuddenly by an incraeaſe of power to overflow <hi>England:</hi> car<g ref="char:EOLhyphen"/>ryng all before them, unleſſe gravell; he hath made ſeverall flouriſhes but ſtill drew back, yet ſo as to leave ſtraglers behind him. Major Gen. <hi>Lambert</hi> is now about <hi>Perith,</hi> and <hi>Langdalo</hi> at <hi>Carlile,</hi> in caſe he be flighted, he may ſtep into <hi>Scotland.</hi> You would little think what joy would be in <hi>Scotland</hi> to heare that the Engliſh Army were drawing Nor<g ref="char:EOLhyphen"/>therly: and how ſoon hereupon they in <hi>Scotland</hi> would be formidable againſt the forward party for <hi>England.</hi> The Lord <hi>Balmerino</hi> plundred for not ta<g ref="char:EOLhyphen"/>king armes, and ſome killd, the like meanes is uſed to others, and that this War may be charged on by Sea and Land, their is paſt lately towards: <hi>Scotland</hi> a fleet of 14 ſayle. The Admirall of them is Mr. <hi>John Gilapſby,</hi> as they paſſed they gave <hi>Barwick</hi> a ſalute, they came from <hi>Holland,</hi> brought ammuniti<g ref="char:EOLhyphen"/>on &amp; other neceſſaries for War. Many of <hi>Langdales</hi> men run from him, 3 Miniſters &amp; 15 of the Coun<g ref="char:EOLhyphen"/>trimen that came with petitions to <hi>Edenburg</hi> againſt the War are impriſoned: From the preſent ſtate of affaires in <hi>Scotland</hi> appeares a War in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                     <pb n="4" facs="tcp:161864:4"/>but ſure not ſo dangerous as to fright into any unſound accord, if circumſtances be weighed and powers on each ſide conſidered.</p>
+                  <p>
+                     <hi>Sir,</hi> Upon the 16. of this inſtant, Major <hi>Sparrow,</hi> joyned with part of the Lieutenant Generalls Regi<g ref="char:EOLhyphen"/>ment, having notice of about 500. foot, and 100. horſe about Walden reſolved to diſpute their quar<g ref="char:EOLhyphen"/>ters, but upon arrivall, found the birds were flown, about 3 in the afternoon, to a place called Hinton, (a ſmall market Town in Cambridgeſhire, 4. miles from thence) their wearineſſe inviting them to a re<g ref="char:EOLhyphen"/>freſhment for certain houres, and therefore reſolved to take what pleaſure a graſſe Cloſe within a mile of Walden, and a rainy night would afford; the enter<g ref="char:EOLhyphen"/>tainment of the place affords them little encou<g ref="char:EOLhyphen"/>ragement to ſtay, and therefore they advance with the Phoſphers firſt dawning to Walden; the reſo<g ref="char:EOLhyphen"/>lute forlorn advances, and Captain Wallington, with the Lieut. Gen. own Troop, who had the Van, (the reſt of the party cheerfully following) equa<g ref="char:EOLhyphen"/>lizes their reſolutions; but the work ſeemes diffi<g ref="char:EOLhyphen"/>cult, by the enemies barre cadoing of the way with Carts, in the face of ſome Musketyers, and Pikes, who wanted no valour, nor ſparred any indeavours to maintain it; and Captain Wallington was gal<g ref="char:EOLhyphen"/>lantly oppoſed by Major Muſchampe, with 20. Muſquets, a ſtand of Pikes, and 20. reſolute horſe, the ſervice was hot on both ſides, but diſputed in a ſhort time. A Trumpeter of Wallingtons was ſhot through the hand, ſome of our horſe hurt; of theirs; ſlain Maj. <hi>Muſchame,</hi> and 10. more, Col. Thornton, Mr. Steward, (who was very active in the riſing
+<pb n="5" facs="tcp:161864:4"/>at Mindel hall in Suffolk) Sir Barnaby Scudamore, and Mr. Henry Sanders, taken priſoners, but not in this action; our party then entered the Town, ſcour<g ref="char:EOLhyphen"/>ed the ſtreetes, and made all clear till they came to the Church, where the main Guard, of about 100. foote, was Commanded by an old ſtout Souldier; the paſſages thereunto being very narrow, cauſed our men to retreat, and upon debate it was reſolved to ſummon them, upon which, a Treaty was deſired and granted, and the reſult thereupon thus.</p>
+                  <p n="1">1. That the Countreymen ſhould go to their own homes, leaving their Armes behind them, and en<g ref="char:EOLhyphen"/>gaging never to bear Arms againſt the Parl. for the future.</p>
+                  <p n="2">2. That 6. horſemen ſhould march away with their horſes and Swords: There were taken for the publike ſtore, 100. Armes, beſides 100. more the Souldiers had amongſt them, 2. Colours of foote, 4. Drums, and 2. Barrels of Powder, a conſiderable party of horſe, but few priſoners, (in reſpect our party was not able to ſurround the Town, and effect the ſurprize at once.) This knot had been ſtronger tyed by 11 a Clock that day, if not timely broken.</p>
+                  <closer>
+                     <dateline>
+                        <hi>From the Head Quarters</hi> 
+                        <date>
+                           <hi>Iune</hi> 22. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another Fight near Pontefract Caſtle in Yorkſhire.</head>
+                  <opener>
+                     <salute>SIR.</salute>
+                  </opener>
+                  <p>THe enemy in <hi>Pontefract</hi> Caſtle, taketh much liberty, and goeth where they pleaſe, on the other ſide of the Caſtle, and upon <hi>Sunday</hi> laſt about three of the Clock in the morning; we receiv<g ref="char:EOLhyphen"/>ed a ſtron Alarm from them on this ſide the Caſtle,
+<pb n="6" facs="tcp:161864:5"/>the manner thus: Col: <hi>Bonevant</hi> (the Governour) made a ſalley, with a party of horſe and foot to ſurprize ſome of our men who were upon the guard, and Officers in their quarters: but his deſigne were fruſtrated; for we received the Alarm very timely, and prepared to receive them, and upon their advance towards the Bridge, our muſquetiers gave fier, they anſwered them with another valley inſomuch here began a very hot encounter, and ſharpe diſpute, but after a furious and violent con<g ref="char:EOLhyphen"/>flict, Col. Fairfax with a party of horſe advanced over the Bridge, charged the enemy in the ſtreets, and performed his action with aboundance of gal<g ref="char:EOLhyphen"/>lantry, kil, d 3 of the Caſtle Soldiers, took 6 priſoners and perſued the reſt to <hi>Pontefract</hi> Towns end, with the loſſe of 20. men, the Cannons plaid from the Caſtle, but did no execution. Bonevant threatens a ſudden revenge upon Col. <hi>Fairfax.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Ferribridge,</hi> 
+                        <date>19. <hi>Iune</hi> 3. <hi>in the morning.</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>SIR, THis Town is almoſt at the last gaſpo, being much dis<g ref="char:EOLhyphen"/>contented <hi>&amp;</hi> divided, occaſioned ſome want of Victuals; but Col. <hi>Poyer</hi> ſtudies, how to delude the Souldiers declaring to them, that before Munday next, he wil warrant them relief, from M. G. <hi>Langdale:</hi> Our great Guns have plaid againſt the walls, <hi>&amp;</hi> a breach was made by battery, <hi>&amp;</hi> the aſſault attemp<g ref="char:EOLhyphen"/>ted, but fruitles, being repulſed with the loſſe of <hi>23.</hi> and <hi>4.</hi> on their part: Since which time, we have had another fight with them, upon a ſalley forth with their horſe, the buſines was not long in diſpute, but very hot, and gallantly maintained by both parties, but at the laſt, we put them to flight, killed <hi>9.</hi> of them, took <hi>20.</hi> priſoners, with the loſſe of few men, as is ſaid, Maj. <hi>6. Laughorne</hi> made one amongſt them; we alſo took: about <hi>30.</hi> horſe, and ſome Arms, M. G. <hi>Laughorn</hi> is recovered of his late wounds, <hi>&amp;</hi> it is ſuppoſed, there are <hi>2000.</hi> fighting in the Town, We doubt not but to be maſters both of Town and Caſtle very ſuddainly.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Pembrook</hi> 
+                        <date>
+                           <hi>June 19. 1648.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
